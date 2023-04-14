@@ -1,0 +1,36 @@
+.navbar{
+    font-family: poppins;
+    color: #04151F;
+}
+
+
+.jumbotron{
+    padding-top: 5rem;
+    background-color: #04151F;
+    font-family: poppins;
+    color: white;
+}
+
+.about{
+    font-family: poppins;
+    color:#04151F;
+}
+
+.contact{
+    font-family: poppins;
+}
+
+.rowz{
+    margin-top: 60px;
+}
+
+.social ul{
+    list-style: none;
+    margin-left: 440px;
+}
+
+.social li{
+    display: inline-block;
+    margin: 10px;
+    justify-content: center;
+}
